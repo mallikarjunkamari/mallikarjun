@@ -1,42 +1,67 @@
-# 👋 Hi, I'm Mallikarjun
+<!-- Profile README for Mallikarjun -->
 
-I'm a passionate **Web Full Stack Developer** who loves building scalable web applications and exploring new technologies.
+<h1 align="center">Hi 👋, I'm Mallikarjun</h1>
+<h3 align="center">A Passionate Web Full Stack Developer</h3>
 
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on building full-stack web apps using modern frameworks
-- 🌱 I’m currently learning more about performance optimization and system design
-- 💬 Ask me about anything related to JavaScript, React, Node.js, or databases
-- 📫 How to reach me: mallukamari123@gmail.com
-- ⚡ Fun fact: I enjoy solving coding challenges and exploring open-source projects
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Web+Developer;Passionate+about+Coding+%26+DSA;Building+Scalable+Web+Apps;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧑‍💻 About Me
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+- 🌐 I’m a **Web Full Stack Developer**
+- 🧠 Currently learning **PHP**, **System Design**, and practicing **Data Structures & Algorithms**
+- 💼 I work with technologies like **JavaScript**, **React**, **Node.js**, **Express.js**, **MongoDB**, and **PHP**
+- 🎯 I love solving DSA problems and participating in coding challenges
+- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Tech Stack
 
-![Mallikarjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mallikarjun&show_icons=true&hide_border=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjun&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,mongodb,git,github,vscode" />
+</p>
 
 ---
 
-## 🔗 Connect with Me
+### 📊 GitHub Stats
 
-<!-- Update with your actual links -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mallikarjun&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjun&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📌 Quote
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+### ⚡ Fun Fact
+
+- I sometimes debug my code by explaining it to my rubber duck 🐥
+
+---
+
+<p align="center">Thank you for visiting my profile! ⭐️</p>
