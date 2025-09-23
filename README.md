@@ -9,7 +9,7 @@ I'm a passionate **Web Full Stack Developer** who loves building scalable web ap
 - 🔭 I’m currently working on building full-stack web apps using modern frameworks
 - 🌱 I’m currently learning more about performance optimization and system design
 - 💬 Ask me about anything related to JavaScript, React, Node.js, or databases
-- 📫 How to reach me: [Insert your email or LinkedIn here]
+- 📫 How to reach me: mallukamari123@gmail.com
 - ⚡ Fun fact: I enjoy solving coding challenges and exploring open-source projects
 
 ---
@@ -21,8 +21,6 @@ I'm a passionate **Web Full Stack Developer** who loves building scalable web ap
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
