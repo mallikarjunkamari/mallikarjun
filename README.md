@@ -1,41 +1,44 @@
-# Hi there, I'm Mallikarjun 👋
+# 👋 Hi, I'm Mallikarjun
 
-Welcome to my GitHub profile! I'm a passionate [Your Role or Title] with a love for coding, problem-solving, and building cool things with technology.
+I'm a passionate **Web Full Stack Developer** who loves building scalable web applications and exploring new technologies.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: [Your current project or job]
-- 🌱 I’m currently learning: [Technologies or topics you're exploring]
-- 💬 Ask me about: [Languages, frameworks, or skills you’re confident in]
-- 📫 How to reach me: [Your email, LinkedIn, Twitter, etc.]
-- ⚡ Fun fact: [A quirky or interesting fact about you]
+- 🔭 I’m currently working on building full-stack web apps using modern frameworks
+- 🌱 I’m currently learning more about performance optimization and system design
+- 💬 Ask me about anything related to JavaScript, React, Node.js, or databases
+- 📫 How to reach me: [Insert your email or LinkedIn here]
+- ⚡ Fun fact: I enjoy solving coding challenges and exploring open-source projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Languages](https://img.shields.io/badge/-Languages-000?style=flat-square&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-<!-- Add or remove technologies as needed -->
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_border=true&theme=github_dark)
+![Mallikarjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mallikarjun&show_icons=true&hide_border=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjun&layout=compact&theme=github_dark)
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Connect with Me
 
+<!-- Update with your actual links -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
