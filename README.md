@@ -1,7 +1,7 @@
 <!-- Profile README for Mallikarjun -->
 
 <h1 align="center">Hi 👋, I'm Mallikarjun</h1>
-<h3 align="center">A Passionate Web Full Stack Developer</h3>
+<h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Web+Developer;Passionate+about+Coding+%26+DSA;Building+Scalable+Web+Apps;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -11,11 +11,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🌐 I’m a **Web Full Stack Developer**
-- 🧠 Currently learning **PHP**, **System Design**, and practicing **Data Structures & Algorithms**
-- 💼 I work with technologies like **JavaScript**, **React**, **Node.js**, **Express.js**, **MongoDB**, and **PHP**
-- 🎯 I love solving DSA problems and participating in coding challenges
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+- 🌐 I’m a **Full Stack Web Developer** specializing in modern web technologies  
+- 🧠 Currently learning **PHP**, **System Design**, and sharpening my skills in **Data Structures & Algorithms**  
+- 💼 Skilled in **JavaScript**, **React**, **Node.js**, **Express.js**, **MongoDB**, and **PHP**  
+- 🎯 Passionate about solving coding challenges and building scalable applications  
+- 📫 Feel free to reach out at: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
@@ -39,20 +39,20 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### 📌 Quote
+### 📌 Favorite Quote
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
@@ -64,4 +64,4 @@
 
 ---
 
-<p align="center">Thank you for visiting my profile! ⭐️</p>
+<p align="center">Thanks for stopping by! ⭐️</p>
