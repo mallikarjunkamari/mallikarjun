@@ -46,7 +46,7 @@ I am currently learning **PHP**, **System Design**, and sharpening my skills in 
 
 ## 🔗 Connect with Me
 
-- 📧 Email: [your-email@example.com](mailto:your-mallukamari123@gmail.com)  
+- 📧 Email: mallukamari123@gmail.com(mailto:your-mallukamari123@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)  
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
