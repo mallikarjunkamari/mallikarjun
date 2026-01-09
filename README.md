@@ -50,3 +50,49 @@ I am currently learning **PHP**, **System Design**, and sharpening my skills in 
 
 Your projects are organized to showcase skills, demo previews, and source code. Example structure:
 
+---
+
+## 📸 Preview
+
+Here’s a screenshot of my portfolio:  
+
+![Portfolio Screenshot](./assets/images/portfolio-screenshot.png)  
+
+---
+
+## 🚀 How to Run Locally
+
+1. **Clone this repository**
+
+```bash
+git clone https://github.com/yourusername/your-portfolio.git
+🛠️ Projects
+Project 1
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Technologies: HTML, CSS, JavaScript
+
+Live Demo: Link
+
+Source Code: GitHub
+
+Project 2
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Technologies: React, Node.js, MongoDB
+
+Live Demo: Link
+
+Source Code: GitHub
+
+🔗 Connect with Me
+
+📧 Email: mallukamari123@gmail.com
+
+💼 LinkedIn: linkedin.com/in/yourprofile
+
+🐙 GitHub: github.com/yourusername
+
+🌐 Portfolio: yourportfolio.com
