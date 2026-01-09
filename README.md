@@ -1,68 +1,52 @@
-# Mallikarjun
+# Mallikarjun's Portfolio 🌟
 
 Welcome to my personal portfolio! This website showcases my skills, projects, and contact details.
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-Hi, I'm Mallikarjun — a beginner **Full Stack Web Developer** passionate about creating clean, responsive websites and solving problems through code.
+👨‍💻 **Frontend & Full Stack Web Developer**  
+⚡ **Tech Content Creator**  
+💼 **Open To Job Opportunities**  
+🌎 [rammaheshwari.com](https://rammaheshwari.com)  
 
-I am currently learning **PHP**, **System Design**, and sharpening my skills in **Data Structures & Algorithms**. I enjoy working with technologies like **JavaScript**, **React**, **Node.js**, **Express.js**, **MongoDB**, and **PHP**.
+Hi, I'm **Mallikarjun** — a beginner **Full Stack Web Developer** passionate about creating clean, responsive websites and solving problems through code.  
+
+I am currently learning **PHP**, **System Design**, and sharpening my skills in **Data Structures & Algorithms**. I enjoy working with technologies like **JavaScript, React, Node.js, Express.js, MongoDB, and PHP**.
 
 ---
 
-## 🛠️ Technologies Used
+## 🌐 Socials
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- React  
-- Node.js  
-- Express.js  
-- MongoDB  
-- PHP  
-- Git & GitHub
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourusername) | [Instagram](https://instagram.com/yourusername) | [YouTube](https://youtube.com/yourchannel)
+
+---
+
+## 💻 Tech Stack
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**  
+- **SASS**  
+- **React**  
+- **Node.js**  
+- **Express.js**  
+- **MongoDB**  
+- **PHP**  
+- **Git & GitHub**  
+
+---
+
+## 📊 GitHub Stats
+
+![Mallikarjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
 ## 📂 Project Structure
 
+Your projects are organized to showcase skills, demo previews, and source code. Example structure:
 
----
-
-## 📸 Preview
-
-![Portfolio Screenshot](https://via.placeholder.com/800x400.png?text=Portfolio+Preview)
-
----
-
-## 🚀 How to Run Locally
-
-1. Clone this repository:  
-2. Open the `index.html` file in your web browser.
-
----
-
-## 🔗 Connect with Me
-
-- 📧 Email: mallukamari123@gmail.com(mailto:your-mallukamari123@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
----
-
-⭐️ If you like my work, feel free to star this repository!
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-⚡ Fun fact: I sometimes debug my code by explaining it to my rubber duck 🐥
-
----
-
-Thanks for visiting my portfolio! 👋
