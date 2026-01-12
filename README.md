@@ -1,4 +1,4 @@
-# Mallikarjun's Portfolio 🌟
+# Mallikarjun
 
 Welcome to my personal portfolio! This website showcases my skills, projects, and contact details.
 
@@ -9,7 +9,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 👨‍💻 **Frontend & Full Stack Web Developer**  
 ⚡ **Tech Content Creator**  
 💼 **Open To Job Opportunities**  
-🌎 [rammaheshwari.com](https://rammaheshwari.com)  
+🌎 [mkporfolio.netlify.app](https://mkporfolio.netlify.app)  
 
 Hi, I'm **Mallikarjun** — a beginner **Full Stack Web Developer** passionate about creating clean, responsive websites and solving problems through code.  
 
@@ -19,7 +19,7 @@ I am currently learning **PHP**, **System Design**, and sharpening my skills in 
 
 ## 🌐 Socials
 
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourusername) | [Instagram](https://instagram.com/yourusername) | [YouTube](https://youtube.com/yourchannel)
+[LinkedIn]([https://linkedin.com/in/yourprofile](http://linkedin.com/in/mallikarjun-kamari-7ab28a365)) |
 
 ---
 
