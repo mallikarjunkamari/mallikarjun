@@ -58,9 +58,10 @@ Projects are organized to showcase skills, demo previews, and source code. Examp
 
 Here’s a screenshot of my portfolio:  
 
-![Portfolio Screenshot](./assets/images/portfolio-screenshot.png)  
+![Portfolio Screenshot](./assets/images/portfolio-screenshot.png)
 
----
+🌐 Live Portfolio: [https://mkporfolio.netlify.app/](https://mkporfolio.netlify.app/)
+
 
 ## 🚀 How to Run Locally
 
