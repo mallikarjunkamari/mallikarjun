@@ -19,7 +19,7 @@ I am currently learning **PHP**, **System Design**, and sharpening my skills in 
 
 ## 🌐 Socials
 
-[LinkedIn]([https://linkedin.com/in/yourprofile](http://linkedin.com/in/mallikarjun-kamari-7ab28a365)) |
+[LinkedIn]([[https://linkedin.com/in/yourprofile](http://linkedin.com/in/mallikarjun-kamari-7ab28a365)]) |
 
 ---
 
