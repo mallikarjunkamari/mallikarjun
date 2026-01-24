@@ -28,13 +28,14 @@ I am currently learning **PHP**, **System Design**, and sharpening my skills in 
 - **HTML5**  
 - **CSS3**  
 - **JavaScript**  
-- **SASS**  
-- **React**  
-- **Node.js**  
-- **Express.js**  
-- **MongoDB**  
-- **PHP**  
-- **Git & GitHub**  
+- **React**     
+- **PHP**
+- **Java**
+- **Collection Framework**
+- **Maven**
+- **Hibernate**  
+- **SpringBoot**
+- **MySQL**  
 
 ---
 
