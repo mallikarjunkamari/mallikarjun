@@ -9,17 +9,18 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 👨‍💻 **Frontend & Full Stack Web Developer**  
 ⚡ **Tech Content Creator**  
 💼 **Open To Job Opportunities**  
-🌎 [mkporfolio.netlify.app](https://mkporfolio.netlify.app)  
+🌎 [mkportfolio.netlify.app](https://mkportfolio.netlify.app)  
 
 Hi, I'm **Mallikarjun** — a beginner **Full Stack Web Developer** passionate about creating clean, responsive websites and solving problems through code.  
 
-I am currently learning **PHP**, **System Design**, and sharpening my skills in **Data Structures & Algorithms**. I enjoy working with technologies like **JavaScript, React, Node.js, Express.js, MongoDB, and PHP**.
+I am currently learning **PHP**, **System Design**, and sharpening my skills in **Data Structures & Algorithms**. I enjoy working with technologies like **JavaScript, React, Node.js, Express.js, MongoDB, PHP, Java, Spring Boot, Hibernate**.
 
 ---
 
 ## 🌐 Socials
 
-[LinkedIn]([[https://linkedin.com/in/yourprofile](http://linkedin.com/in/mallikarjun-kamari-7ab28a365)]) |
+[LinkedIn](http://linkedin.com/in/mallikarjun-kamari-7ab28a365) |  
+[GitHub](https://github.com/yourusername)  
 
 ---
 
@@ -28,13 +29,13 @@ I am currently learning **PHP**, **System Design**, and sharpening my skills in 
 - **HTML5**  
 - **CSS3**  
 - **JavaScript**  
-- **React**     
-- **PHP**
-- **Java**
-- **Collection Framework**
-- **Maven**
+- **React**  
+- **PHP**  
+- **Java**  
+- **Collection Framework**  
+- **Maven**  
 - **Hibernate**  
-- **SpringBoot**
+- **Spring Boot**  
 - **MySQL**  
 
 ---
@@ -49,7 +50,7 @@ I am currently learning **PHP**, **System Design**, and sharpening my skills in 
 
 ## 📂 Project Structure
 
-Your projects are organized to showcase skills, demo previews, and source code. Example structure:
+Projects are organized to showcase skills, demo previews, and source code. Example structure:
 
 ---
 
@@ -67,33 +68,3 @@ Here’s a screenshot of my portfolio:
 
 ```bash
 git clone https://github.com/yourusername/your-portfolio.git
-🛠️ Projects
-Project 1
-
-Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-Technologies: HTML, CSS, JavaScript
-
-Live Demo: Link
-
-Source Code: GitHub
-
-Project 2
-
-Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-Technologies: React, Node.js, MongoDB
-
-Live Demo: Link
-
-Source Code: GitHub
-
-🔗 Connect with Me
-
-📧 Email: mallukamari123@gmail.com
-
-💼 LinkedIn: linkedin.com/in/yourprofile
-
-🐙 GitHub: github.com/yourusername
-
-🌐 Portfolio: yourportfolio.com
