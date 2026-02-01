@@ -1,121 +1,152 @@
-# 👋 Hi, I'm Mallikarjun Kamari
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Mallikarjun%20Kamari!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-![Full Stack Developer](https://images.unsplash.com/photo-1526378722484-bd91ca387e72)
-![Web Development](https://images.unsplash.com/photo-1518770660439-4636190af475)
+<p align="center">
+  <b>Full Stack Web Developer | Java | Python | React</b><br/>
+  🚀 Building modern, scalable, and user-friendly web applications
+</p>
 
-🚀 **Full Stack Web Developer | Java | Python | React**  
-📍 Bengaluru, India  
-
----
-
-## 🧑‍💻 About Me
-
-I am a highly motivated **Full Stack Web Developer** with a strong foundation in building **modern, responsive, and scalable web applications**.  
-I enjoy learning new technologies, solving real-world problems, and continuously improving my technical skills.
-
----
-
-## 🛠️ Technical Skills
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-
-### Backend
-- Java (Spring Boot, REST APIs)
-- Python (Django)
-
-### Database
-- MySQL
-
-### Tools & Concepts
-- Hibernate
-- Maven
-- Collections
-- Manual Testing
+<p align="center">
+  <a href="https://linkedin.com/in/mallikarjun-kamari-7ab28a365">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://mkporfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome"/>
+  </a>
+  <a href="mailto:mallukamari123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-## 💼 Professional Experience
+## 👨‍💻 About Me
 
-### Software Development Intern  
+✨ I’m a **highly motivated Full Stack Web Developer** with hands-on experience in  
+**Java, Spring Boot, Python, Django, React, and MySQL**.
+
+💡 I enjoy:
+- Solving real-world problems  
+- Learning new technologies quickly  
+- Building clean, responsive, and scalable applications  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
+
+---
+
+## 💼 Experience
+
+### 🏢 Software Development Intern  
 **KodNest Technologies – Bengaluru**  
-📅 July 2025 – Present  
+📅 *July 2025 – Present*
 
-- Hands-on experience with Java, Spring Boot, Hibernate, Maven, and MySQL  
-- Frontend development using HTML, CSS, JavaScript, and React  
-- Worked on real-world projects following industry best practices  
+- Worked with **Java, Spring Boot, Hibernate, MySQL**
+- Built frontend using **HTML, CSS, JavaScript, React**
+- Gained real-world project and industry experience
 
-### Python Full Stack Developer  
+### 🏢 Python Full Stack Developer  
 **Apponix Technologies – Hubli**  
-📅 Dec 2024 – Jan 2025  
+📅 *Dec 2024 – Jan 2025*
 
-- Developed full-stack applications using Python & Django  
-- Built responsive UIs and database-driven applications  
+- Developed full-stack applications using **Python & Django**
+- Built responsive UI and database-driven features
 
 ---
 
 ## 📂 Projects
 
 ### 🔹 CRM System (Java Full Stack)
+🚀 Customer & Lead Management Application
 
-![CRM Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71)
-
-- Customer Relationship Management system for customers, leads, and sales  
-- Backend: Spring Boot, REST APIs  
-- Database: MySQL  
-- Frontend: HTML, CSS, JavaScript  
-- Interactive dashboards and secure authentication  
+- Spring Boot REST APIs  
+- MySQL database integration  
+- Interactive dashboards  
+- Secure authentication  
 
 ---
 
 ### 🔹 TaskBuddy (React App)
+✅ Smart Task Management Tool
 
-![Task Management App](https://images.unsplash.com/photo-1508780709619-79562169bc64)
-
-- Responsive task management application built with React  
-- Add, edit, delete, and complete tasks  
-- Live productivity indicator showing completion percentage  
-- Uses React Hooks for efficient state management  
+- Add, edit, delete, complete tasks  
+- Live productivity percentage  
+- Clean UI with React Hooks  
 
 ---
 
 ### 🔹 MKDev Portfolio
+🌐 Personal Developer Portfolio
 
-![Portfolio Website](https://images.unsplash.com/photo-1498050108023-c5249f4df085)
+- Built using HTML, CSS, JavaScript  
+- Responsive & professional design  
+- Showcases skills & projects  
 
-- Personal portfolio website using HTML, CSS, and JavaScript  
-- Clean UI, responsive design, smooth navigation  
-- Showcases skills, projects, and experience  
-
-🔗 **Live Website:** https://mkporfolio.netlify.app/
+🔗 **Live:** https://mkporfolio.netlify.app/
 
 ---
 
 ## 🎓 Education
 
-- **MCA** – Basaveshwar Engineering College, Bagalkote (2025) | CGPA: 8.2  
-- **B.Sc** – Basaveshwar Arts Commerce & Science College (2023) | CGPA: 7.77  
-- **PUC** – Spandana PU Science College (2020)  
-- **10th** – Govt High School, Chitapura (2018)  
+🎓 **MCA** – Basaveshwar Engineering College (2025) | CGPA: 8.2  
+🎓 **B.Sc** – Basaveshwar Arts Commerce & Science College (2023)  
+🏫 **PUC** – Spandana PU Science College (2020)  
+🏫 **10th** – Govt High School (2018)
 
 ---
 
 ## 🏆 Certifications
 
-- Python Full Stack Development – Apponix Technologies  
-- NPTEL Online Certification  
+🏅 Python Full Stack Development – Apponix  
+🏅 NPTEL Online Certification  
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Stats
 
-- 📧 Email: mallukamari123@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/mallikarjun-kamari-7ab28a365  
-- 🌍 Portfolio: https://mkporfolio.netlify.app/
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ **If you like my work, don’t forget to star this repository!**
+## 🤝 Let’s Connect
+
+📧 Email: **mallukamari123@gmail.com**  
+💼 LinkedIn: https://linkedin.com/in/mallikarjun-kamari-7ab28a365  
+🌐 Portfolio: https://mkporfolio.netlify.app/
+
+---
+
+<p align="center">
+  ⭐ If you like my profile, don’t forget to <b>star</b> the repository!
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
