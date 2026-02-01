@@ -105,7 +105,7 @@
 - React Hooks & component-based UI  
 - Git version control  
 - Deployed using cloud hosting  
-
+🔗 **Live:** https://taskbuddy001.netlify.app/
 ---
 
 ### 🔹 MKDev Portfolio
