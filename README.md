@@ -122,7 +122,7 @@
 ## 🎓 Education
 
 🎓 **MCA** – Basaveshwar Engineering College (2025) | CGPA: 8.2  
-🎓 **B.Sc** – Basaveshwar Arts Commerce & Science College (2023)
+🎓 **B.Sc** – Basaveshwar Arts Commerce & Science College (2023) | CGPA: 7.9
 
 ---
 
