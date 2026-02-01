@@ -1,71 +1,121 @@
-# Mallikarjun
+# 👋 Hi, I'm Mallikarjun Kamari
 
-Welcome to my personal portfolio! This website showcases my skills, projects, and contact details.
+![Full Stack Developer](https://images.unsplash.com/photo-1526378722484-bd91ca387e72)
+![Web Development](https://images.unsplash.com/photo-1518770660439-4636190af475)
 
----
-
-## 💫 About Me
-
-👨‍💻 **Frontend & Full Stack Web Developer**  
-⚡ **Tech Content Creator**  
-💼 **Open To Job Opportunities**  
-🌎 [mkportfolio.netlify.app](https://mkportfolio.netlify.app)  
-
-Hi, I'm **Mallikarjun** — a beginner **Full Stack Web Developer** passionate about creating clean, responsive websites and solving problems through code.  
-
-I am currently learning **PHP**, **System Design**, and sharpening my skills in **Data Structures & Algorithms**. I enjoy working with technologies like **JavaScript, React, Node.js, Express.js, MongoDB, PHP, Java, Spring Boot, Hibernate**.
+🚀 **Full Stack Web Developer | Java | Python | React**  
+📍 Bengaluru, India  
 
 ---
 
-## 🌐 Socials
+## 🧑‍💻 About Me
 
-[LinkedIn](http://linkedin.com/in/mallikarjun-kamari-7ab28a365) |  
-[GitHub](https://github.com/yourusername)  
-
----
-
-## 💻 Tech Stack
-
-- **HTML5**  
-- **CSS3**  
-- **JavaScript**  
-- **React**  
-- **PHP**  
-- **Java**  
-- **Collection Framework**  
-- **Maven**  
-- **Hibernate**  
-- **Spring Boot**  
-- **MySQL**  
+I am a highly motivated **Full Stack Web Developer** with a strong foundation in building **modern, responsive, and scalable web applications**.  
+I enjoy learning new technologies, solving real-world problems, and continuously improving my technical skills.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Skills
 
-![Mallikarjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+### Backend
+- Java (Spring Boot, REST APIs)
+- Python (Django)
+
+### Database
+- MySQL
+
+### Tools & Concepts
+- Hibernate
+- Maven
+- Collections
+- Manual Testing
 
 ---
 
-## 📂 Project Structure
+## 💼 Professional Experience
 
-Projects are organized to showcase skills, demo previews, and source code. Example structure:
+### Software Development Intern  
+**KodNest Technologies – Bengaluru**  
+📅 July 2025 – Present  
+
+- Hands-on experience with Java, Spring Boot, Hibernate, Maven, and MySQL  
+- Frontend development using HTML, CSS, JavaScript, and React  
+- Worked on real-world projects following industry best practices  
+
+### Python Full Stack Developer  
+**Apponix Technologies – Hubli**  
+📅 Dec 2024 – Jan 2025  
+
+- Developed full-stack applications using Python & Django  
+- Built responsive UIs and database-driven applications  
 
 ---
 
-## 📸 Preview
+## 📂 Projects
 
-Here’s a screenshot of my portfolio:  
+### 🔹 CRM System (Java Full Stack)
 
-![Portfolio Screenshot](./assets/images/portfolio-screenshot.png)
+![CRM Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71)
 
-🌐 Live Portfolio: [https://mkporfolio.netlify.app/](https://mkporfolio.netlify.app/)
+- Customer Relationship Management system for customers, leads, and sales  
+- Backend: Spring Boot, REST APIs  
+- Database: MySQL  
+- Frontend: HTML, CSS, JavaScript  
+- Interactive dashboards and secure authentication  
 
+---
 
-## 🚀 How to Run Locally
+### 🔹 TaskBuddy (React App)
 
-1. **Clone this repository**
+![Task Management App](https://images.unsplash.com/photo-1508780709619-79562169bc64)
 
-```bash
-git clone https://github.com/yourusername/your-portfolio.git
+- Responsive task management application built with React  
+- Add, edit, delete, and complete tasks  
+- Live productivity indicator showing completion percentage  
+- Uses React Hooks for efficient state management  
+
+---
+
+### 🔹 MKDev Portfolio
+
+![Portfolio Website](https://images.unsplash.com/photo-1498050108023-c5249f4df085)
+
+- Personal portfolio website using HTML, CSS, and JavaScript  
+- Clean UI, responsive design, smooth navigation  
+- Showcases skills, projects, and experience  
+
+🔗 **Live Website:** https://mkporfolio.netlify.app/
+
+---
+
+## 🎓 Education
+
+- **MCA** – Basaveshwar Engineering College, Bagalkote (2025) | CGPA: 8.2  
+- **B.Sc** – Basaveshwar Arts Commerce & Science College (2023) | CGPA: 7.77  
+- **PUC** – Spandana PU Science College (2020)  
+- **10th** – Govt High School, Chitapura (2018)  
+
+---
+
+## 🏆 Certifications
+
+- Python Full Stack Development – Apponix Technologies  
+- NPTEL Online Certification  
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: mallukamari123@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/mallikarjun-kamari-7ab28a365  
+- 🌍 Portfolio: https://mkporfolio.netlify.app/
+
+---
+
+⭐ **If you like my work, don’t forget to star this repository!**
