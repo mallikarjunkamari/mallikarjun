@@ -135,9 +135,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+## 📌 What’s Happening
+
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Currently-Building%20Full--Stack%20%26%20DevOps-blue?style=for-the-badge)
+
 
 ---
 
